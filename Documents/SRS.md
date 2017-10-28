@@ -12,15 +12,15 @@
 ***
 Главное меню:
 ***
-![Image alt](https://github.com/Linkevich/ArcadeGame/blob/master/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png)
+![Image alt](https://github.com/Linkevich/ArcadeGame/blob/master/Documents/%D0%9D%D0%B0%D1%87%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD.png)
 ***
 Игровой процесс:
 ***
-![Image alt](https://github.com/Linkevich/ArcadeGame/blob/master/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81.png)
+![Image alt](https://github.com/Linkevich/ArcadeGame/blob/master/Documents/%D0%98%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81.png)
 ***
 Конец игровой сессии:
 ***
-![Image alt](https://github.com/Linkevich/ArcadeGame/blob/master/%D0%9A%D0%BE%D0%BD%D0%B5%D1%86%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%81%D0%B5%D1%81%D1%81%D0%B8%D0%B8.png)
+![Image alt](https://github.com/Linkevich/ArcadeGame/blob/master/Documents/%D0%9A%D0%BE%D0%BD%D0%B5%D1%86%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%81%D0%B5%D1%81%D1%81%D0%B8%D0%B8.png)
 ### 2.3 Характеристики пользователей
 ***
 Целевая аудитория данного приложения – люди различной возрастной категории. Данное приложение разработано для приятного времяпрепровождения.
